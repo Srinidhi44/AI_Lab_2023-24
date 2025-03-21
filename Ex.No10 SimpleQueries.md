@@ -35,6 +35,7 @@ eats(bill, X).
 
 ### Output:
 <img width="225" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/75f33a13-0d1e-4d94-b5fe-a68d0f98b214">
+
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
 1.	Steve likes easy courses. <br> 
@@ -73,7 +74,6 @@ hostile(Z):-
 enemy(Z,america).
 sells(west,Y,nano):-
 missile(Y),
-Thus the prolog programs were executed successfully and the answer of query was found.
 owns(nano,Y).
 missile(m).
 owns(nano,m).
