@@ -34,7 +34,7 @@ eats(bill, X).
 ```
 
 ### Output:
-
+<img width="225" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/75f33a13-0d1e-4d94-b5fe-a68d0f98b214">
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
 1.	Steve likes easy courses. <br> 
@@ -54,6 +54,7 @@ in_department(bk301, have_fun).
 ```
 
 ### Output:
+<img width="440" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/277f61ce-cc46-405a-a901-2414cad29091">
 
 ### Task 3:
 Consider the statement <br> 
@@ -81,6 +82,7 @@ american(west).
 ```
 
 ### Output:
+<img width="223" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/ce90dfcd-294c-4b52-808e-ff81e94bcc71">
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
